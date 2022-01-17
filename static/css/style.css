@@ -8,3 +8,9 @@ body,
 html {
   height: 100%;
 }
+
+.legend i{
+  width:18px;
+  height:18px;
+  float: left;
+}
